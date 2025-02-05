@@ -1,4 +1,4 @@
-# 📸 Discord Image Logger [ARCHIVED]
+# Discord Image Logger 
 
 **This project has been archived!** A V2 version with bugfixes, selfhosting capabilities, a better hosting platform, and more features will be coming soon!
 
