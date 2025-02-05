@@ -117,6 +117,6 @@ None at the moment!
 # 📜 Closing Statements
 
 Liked the project? I know you did! Support me, **drop a star!** <br>
-Additionally, you can donate to me! See my [donations page](https://github.com/dekrypted#--donations--), always appreciated!
+Additionally, you can donate to me! See my [donations page](https://github.com/cmdhell#--donations--), always appreciated!
 
 Thank you for choosing my tools! 🙏
