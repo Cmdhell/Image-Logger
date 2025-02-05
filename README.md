@@ -8,15 +8,14 @@ Please note that this is **NOT** a "one click" image logger. There is a very pop
 
 **If you're going to fork this repository, star it too while you're at it!**
 
-Stuck? Try the [Video Tutorial!](https://www.youtube.com/watch?v=rFbiW2x4HEw) <br>
-For updates and events, you should join the [Discord!](https://discord.gg/Shb47XpQxq)
+Stuck? Try the [Video Tutorial!](https://www.youtube.com/whituv) <br>
+For updates and events, you should join the [Telegram!](https://t.me/uvwhit)
 
 # 📚 Table of Contents
 * [Introduction](#-discord-image-logger) <br>
 * [Features](#-features) <br>
 * [Configuration](#-configuration) <br>
 * [Setup](#%EF%B8%8F-setup) <br>
-* [Video Tutorial](https://www.youtube.com/watch?v=rFbiW2x4HEw) <br>
 * [Bug Reports & Suggestions](#-bug-reports--suggestions) <br>
 * [Closing Statements](#-closing-statements) <br>
 
@@ -87,7 +86,7 @@ Simply insert anything in the following table and it will replace it respectivel
 
 Now that you've got all that set up, let's install this thing! <br>
 
-You can also watch the [Video Tutorial!](https://www.youtube.com/watch?v=rFbiW2x4HEw)
+You can also watch the [Video Tutorial!](https://www.youtube.com/whituv)
 
 - **1:** Create a GitHub repository. I recommend it be private, so others can't see your webhook URL.
 - **2:** Make a folder named `api`, and place `requirements.txt` and `main.py` in (Rename it whatever, e.g. catpicture.py would make the URL your.site/api/catepicture)
